@@ -54,7 +54,7 @@ def main():
             print(f"- {section}")
     
     if sommaire:
-        print("\nSommaire :")
+        print("\nSommaire :") 
         for item in sommaire:
             print(f"- {item}")
 
